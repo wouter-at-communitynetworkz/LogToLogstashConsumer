@@ -1,6 +1,7 @@
 package com.roundabout.logtologstashconsumer;
 
 import com.google.gson.Gson;
+import com.roundabout.logtologstash.HttpInteractor;
 
 public class Main {
     public static void main(String[] args)
