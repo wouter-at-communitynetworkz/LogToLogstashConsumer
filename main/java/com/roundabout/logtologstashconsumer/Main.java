@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args)
             throws Exception
     {
-//       HttpInteractor httpInteractor = new HttpInteractor();
+       HttpInteractor httpInteractor = new HttpInteractor();
 //        System.out.println(httpInteractor.logToLogstash("hola"));
 //        System.out.println(httpInteractor.logToLogstash(2345));
         String[] myStringArray;
